@@ -1,15 +1,15 @@
 {
   "name" : "cl", 
   "version" : "0.0.1",
-  "description" :"",
+  "description" :"Easily create command line programs and interfaces in Node.js.",
   "homepage" : [
     ""
   ],
   "repository" : {
     "type" : "git", 
-    "url" : ""
+    "url" : "git@github.com:jprichardson/node-cl.git"
   },
-  "keywords" : [],
+  "keywords" : ["cli", "cl", "command", "interface", "exit"],
   "author" : "JP Richardson <jprichardson@gmail.com>",
   "licenses" : [ {
     "type" : "MIT",
